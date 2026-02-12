@@ -10,7 +10,7 @@ To install the dependencies for this script, run:
 pip install google-genai opencv-python pyaudio pillow mss
 ```
 """
-
+"Hello World from AI Studio Code"
 import os
 import asyncio
 import base64
